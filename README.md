@@ -4,7 +4,7 @@
 Dataset (Kaggle): https://www.kaggle.com/datasets/ravi72munde/uber-lyft-cab-prices
 Dataset (Spreadsheet): https://docs.google.com/spreadsheets/d/1ZVzyciCeBbTzYxuDdBuRc-fq-BJkxiYCJmXt1sIWGWc/edit?usp=sharing
 
-Methodes used:
+Methods used:
 - A*
 - Greedy Best-First Search
 - Hill Climbing
