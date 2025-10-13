@@ -1,5 +1,5 @@
 # AI Concept Class Midterm Project
-## Comparing methods of finding the most efficient route (lowest price or shortest path) between two points of location from a dataset
+## Comparing methods of finding the most efficient route (lowest price or shortest path) when using an online transportation between two points of location from a dataset.
 
 
 Dataset (Kaggle): https://www.kaggle.com/datasets/ravi72munde/uber-lyft-cab-prices
